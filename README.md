@@ -13,3 +13,7 @@ Currently, I've studied C++, python, dart/flutter, and doing a project relative 
 Now, I'm stuck in Dynamic Programming. Hope I can master it in the near future!
 
 That's me, and that's all.
+
+### 2203-07-21
+
+graduated, retired XCPCer
